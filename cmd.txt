@@ -1,0 +1,34 @@
+   96  git commit -m "my 1st test commit"
+   97  git status
+   98  git log
+   99  git remote add origin https://github.com/SwarupDhadam/Pythonwithdeepa.git
+  100  git push -u origin master
+  101  history
+  102  git remote add origin https://github.com/deepalikesarkar/swarup_dhadam.git
+  103  git pull origin https://github.com/deepalikesarkar/swarup_dhadam.git
+  104  git remote remove origin https://github.com/SwarupDhadam/Pythonwithdeepa.git
+  105  git remote add origin https://github.com/deepalikesarkar/swarup_dhadam.git
+  106  git remote remove origin https://github.com/SwarupDhadam/Pythonwithdeepa.git
+  107  git remote remove https://github.com/SwarupDhadam/Pythonwithdeepa.git
+  108  git pull -u origin
+  109  git pull -u origin
+  110  git pull origin
+  111  git status
+  112  git pull origin master
+  113  git -b checkout
+  114  git pull origin https://github.com/SwarupDhadam/Deepipythonlearn
+  115  git remote add origin https://github.com/SwarupDhadam/Deepipythonlearn
+  116  git remote set-url origin https://github.com/user/repo2.git
+  117  git remote set-url origin https://github.com/SwarupDhadam/Deepipythonlearn
+  118  git pull origin https://github.com/SwarupDhadam/Deepipythonlearn
+  119  git pull https://github.com/SwarupDhadam/Deepipythonlearn
+  120  cd ..
+  121  cd D:\ccc
+  122  git pull https://github.com/SwarupDhadam/Deepipythonlearn.git
+  123  cd D:\Git-Local-repo
+  124  git pull https://github.com/SwarupDhadam/Deepipythonlearn.git
+  125  git clone https://github.com/SwarupDhadam/Deepipythonlearn.git
+  126  git pull https://github.com/SwarupDhadam/Deepipythonlearn.git
+  127  git pull origin master --allow-unrelated-histories
+  128  git pull https://github.com/SwarupDhadam/Deepipythonlearn.git
+  129  history
